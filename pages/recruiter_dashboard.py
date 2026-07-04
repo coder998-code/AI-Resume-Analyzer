@@ -321,4 +321,4 @@ st.caption(
     "🤖 AI Resume Analyzer | Built using Streamlit • Gemini AI • SQLite"
 )
 # REMOVE THIS LATER
-#show_recruiter()
+show_recruiter()
